@@ -1,0 +1,41 @@
+
+body {
+	font-family: Lateef, serif;
+	margin:auto;
+	width:50%;
+}
+
+.table {
+	display: table;
+	margin:20px auto 0;
+
+}
+ ul#horizontal-list {
+	list-style-type: none;
+	margin:0 auto;
+
+}
+li {
+
+	display:inline;
+	padding:0px 20px;
+	font-size:18px;
+}
+.center {
+	text-align: center;
+	margin:10px 0 0 0;
+}
+h1 {
+	font-size:40px;
+	margin: 30px 0 0 0;
+}
+
+p {
+	font-size:18px;
+	line-height: 24px;
+	letter-spacing: .7px;
+}
+
+a {
+	color:#000000;
+}
